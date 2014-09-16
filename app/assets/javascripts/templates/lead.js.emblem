@@ -1,5 +1,6 @@
 article#lead
   h1= model.fullName
+outlet
 
   p
     ' Name:
